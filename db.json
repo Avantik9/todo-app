@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "name": "avantik",
+      "email": "avantikchaudhery008@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "ghodu",
+      "email": "ghodi@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "avi",
+      "email": "avi@gmail.com",
+      "password": "1234",
+      "id": 3
+    }
+  ],
+  "task": [
+    {
+      "title": "bara",
+      "userid": "avantik",
+      "modifiedon": "Thu Jul 04 2024 10:53:20 GMT+0530 (India Standard Time)",
+      "duedate": "2024-07-04T10:53",
+      "description": "bara bara bara ",
+      "id": 1
+    },
+    {
+      "title": "task 2",
+      "userid": "avantik",
+      "modifiedon": "Thu Jul 04 2024 11:10:43 GMT+0530 (India Standard Time)",
+      "duedate": "2024-07-04T11:10",
+      "description": "in making",
+      "id": 2
+    },
+    {
+      "title": "task 3",
+      "userid": "avantik",
+      "modifiedon": "Thu Jul 04 2024 11:10:54 GMT+0530 (India Standard Time)",
+      "duedate": "2024-07-04T11:10",
+      "description": "in making 3",
+      "id": 3
+    },
+    {
+      "title": "task 4",
+      "userid": "avantik",
+      "modifiedon": "Thu Jul 04 2024 11:11:55 GMT+0530 (India Standard Time)",
+      "duedate": "2024-07-04T11:10",
+      "description": "in making 4",
+      "id": 4
+    },
+    {
+      "title": "new latest  updated task",
+      "userid": 1,
+      "modifiedon": "Mon Jul 15 2024 10:56:16 GMT+0530 (India Standard Time)",
+      "duedate": "2024-07-08T11:39",
+      "description": "doing again new updated renders task\nthen updated",
+      "id": 9
+    },
+    {
+      "title": "newly created task",
+      "description": "its a new day its a new life\nwith i7 processor",
+      "duedate": "2024-07-10T12:06",
+      "userid": 1,
+      "modifiedon": "Mon Jul 15 2024 10:55:35 GMT+0530 (India Standard Time)",
+      "id": 10
+    },
+    {
+      "title": "avantik created a new task",
+      "description": "newly created task by avantik \nand them edited \nand them edited again",
+      "duedate": "2024-07-15T09:16",
+      "userid": 1,
+      "modifiedon": "Mon Jul 15 2024 10:52:19 GMT+0530 (India Standard Time)",
+      "id": 11
+    }
+  ]
+}
